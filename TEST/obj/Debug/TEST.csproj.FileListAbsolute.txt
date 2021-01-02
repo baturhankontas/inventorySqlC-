@@ -1,0 +1,11 @@
+F:\DENEMELER\WINDOWS\TEST\TEST\bin\Debug\TEST.exe.config
+F:\DENEMELER\WINDOWS\TEST\TEST\bin\Debug\TEST.exe
+F:\DENEMELER\WINDOWS\TEST\TEST\bin\Debug\TEST.pdb
+F:\DENEMELER\WINDOWS\TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+F:\DENEMELER\WINDOWS\TEST\TEST\obj\Debug\TEST.Form1.resources
+F:\DENEMELER\WINDOWS\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+F:\DENEMELER\WINDOWS\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+F:\DENEMELER\WINDOWS\TEST\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+F:\DENEMELER\WINDOWS\TEST\TEST\obj\Debug\TEST.exe
+F:\DENEMELER\WINDOWS\TEST\TEST\obj\Debug\TEST.pdb
+F:\DENEMELER\WINDOWS\TEST\TEST\obj\Debug\TEST.Form2.resources
